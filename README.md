@@ -3,7 +3,7 @@
 - 👀 I’m interested in movies, music and Bible stories with archeology.
 - 🌱 I enjoy learning about edible plants, especially those that heal.
 - 🎓 Currently studying Systems Analysis and Development at UNIVALI.
-- .🔥 I’m looking to collaborate on projects, besides being able to improve my skills as a developer.
+- .🔥 I’m looking forward to collaborating on projects.
 
 ##
 
