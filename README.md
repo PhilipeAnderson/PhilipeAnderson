@@ -31,12 +31,12 @@
   <img align="center" alt="Philipe-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
   <img  align="center" alt="Philipe-PhotoShop" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img  align="center" alt="Philipe-Illustrator" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img  align="center" alt="Philipe-AfterEffects" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
   <img  align="center" alt="Philipe-Premier" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
-</div>
+</div> -->
 
   ##
   
