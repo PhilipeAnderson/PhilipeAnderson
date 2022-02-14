@@ -38,6 +38,13 @@
   <img  align="center" alt="Philipe-AfterEffects" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
   <img  align="center" alt="Philipe-Premier" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
 </div> -->
+  
+<!-- <div style="display: inline_block"><br>
+  <img  align="center" alt="Philipe-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img  align="center" alt="Philipe-Github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img  align="center" alt="Philipe-yarn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
+  <img  align="center" alt="Philipe-npm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+</div> -->
 
   ##
   
